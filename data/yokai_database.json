@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Jibanyan",
+    "rank": "D",
+    "tribe": "Charming",
+    "favorite_food": "Chocolate Bars",
+    "abilities": ["Paws of Fury"],
+    "description": "A cat Yo-kai known for his energetic personality."
+  },
+  {
+    "name": "Komasan",
+    "rank": "D",
+    "tribe": "Charming",
+    "favorite_food": "Soft Serve",
+    "abilities": ["Fire"],
+    "description": "A country bumpkin Yo-kai who is fascinated by city life."
+  },
+  {
+    "name": "Whisper",
+    "rank": "E",
+    "tribe": "Mysterious",
+    "favorite_food": "Soba",
+    "abilities": ["Yo-kai Butler"],
+    "description": "Nate's ghostly butler Yo-kai, who guides him on his Yo-kai adventures and explains how the Yo-kai world works."
+  },
+  {
+    "name": "Komajiro",
+    "rank": "D",
+    "tribe": "Charming",
+    "favorite_food": "Soft Serve",
+    "abilities": ["Fire"],
+    "description": "Komasan's younger brother, who adjusts to city life much more easily than his sibling."
+  },
+  {
+    "name": "Hungramps",
+    "rank": "D",
+    "tribe": "Tough",
+    "favorite_food": "Rice Balls",
+    "abilities": ["Gluttonous Rage"],
+    "description": "A gruff old Yo-kai who makes people hungry, then eats everything in sight."
+  },
+  {
+    "name": "Noway",
+    "rank": "D",
+    "tribe": "Tough",
+    "favorite_food": "Beef Bowls",
+    "abilities": ["Stubborn Denial"],
+    "description": "A Yo-kai who makes people say 'no way' to everything."
+  },
+  {
+    "name": "Walkappa",
+    "rank": "D",
+    "tribe": "Slippery",
+    "favorite_food": "Cucumbers",
+    "abilities": ["Water Splash"],
+    "description": "A kappa Yo-kai who makes people put their foot in their mouth or say embarrassing things."
+  },
+  {
+    "name": "Tattletell",
+    "rank": "D",
+    "tribe": "Charming",
+    "favorite_food": "Sweets",
+    "abilities": ["Loose Lips"],
+    "description": "A gossip Yo-kai who makes people blurt out secrets they meant to keep."
+  },
+  {
+    "name": "Wazzat",
+    "rank": "D",
+    "tribe": "Mysterious",
+    "favorite_food": "Pickled Plums",
+    "abilities": ["Forget Fog"],
+    "description": "A Yo-kai that makes people forget things, leaving them wondering what they were about to do."
+  },
+  {
+    "name": "Insomni",
+    "rank": "D",
+    "tribe": "Shady",
+    "favorite_food": "Bean Jam Buns",
+    "abilities": ["Sleepless Night"],
+    "description": "A Yo-kai whose presence keeps people awake all night."
+  }
+]
