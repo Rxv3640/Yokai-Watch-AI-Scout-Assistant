@@ -1,29 +1,29 @@
 # Yokai-Watch-AI-Scout-Assistant
 
-- Project Overview
+## Project Overview
 This Retrieval Augmented Generation(RAG) Project is based on a tv show called Yokai Watch. This project acts as a chatbot for the user to ask questions about specific Yokai characters. The chatbot will generate information related to the specific Yokai character to the user.
 
 
 
-- Project Structure
+## Project Structure
 
-'''text
+```text
 yokai-rag-assistant/
 │
 ├── data/
-│   └── yokai_database.json
+│   └── yokai_database.json    # Yokai knowledge base
 │
 ├── ingestion/
-│   ├── load_data.py
-│   └── vector_store.py
+│   ├── load_data.py           # Loads and preprocesses the JSON data
+│   └── vector_store.py        # Builds and stores embeddings
 │
 ├── rag/
-│   ├── retriever.py
-│   └── generator.py
+│   ├── retriever.py           # Retrieves relevant yokai entries
+│   └── generator.py           # Generates answers from retrieved context
 │
-├── app.py
-├── evaluate.py
-├── requirements.txt
-├── .env
+├── app.py                     # Main application entry point
+├── evaluate.py                # Evaluates retrieval/answer quality
+├── requirements.txt           # Python dependencies
+├── .env                       # Environment variables (API keys)
 └── README.md
-'''
+```
