@@ -7,7 +7,8 @@ This Retrieval Augmented Generation(RAG) Project is based on a tv show called Yo
 
 - Project Structure
 
-yokai-rag-assistant/\n
+'''text
+yokai-rag-assistant/
 │
 ├── data/
 │   └── yokai_database.json
@@ -25,4 +26,4 @@ yokai-rag-assistant/\n
 ├── requirements.txt
 ├── .env
 └── README.md
-
+'''
