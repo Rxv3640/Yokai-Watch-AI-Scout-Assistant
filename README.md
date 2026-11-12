@@ -27,3 +27,14 @@ yokai-rag-assistant/
 ├── .env                       # Environment variables (API keys)
 └── README.md
 ```
+## Technologies used
+
+- Python
+- LangChain
+- ChromaDB
+- Hugging Face embeddings
+- Streamlit
+- Git
+- Github
+- VSCode
+- Retrieval Augmented Generation (RAG)
